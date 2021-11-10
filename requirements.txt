@@ -1,0 +1,18 @@
+
+Tools required- figlet, lolcat, fim, jp2a, python3, python turtle module, python playsound module
+
+# To update linux
+sudo apt update
+# To install figlet and lolcat
+sudo apt install figlet lolcat
+# To install fim
+sudo apt install fim
+# To install jp2a
+sudo apt install jp2a
+# To install playsound and turtle
+sudo pip install playsound
+sudo pip install turtle
+# To install pip
+sudo apt install python3-pip
+# Also install python3/python2 on your linux system
+# keep all the image files and audio file within this Birthday_bash folder to execute imagerun.sh, audio.py files properly 

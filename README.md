@@ -20,7 +20,10 @@ cat requirements.txt
 ```
 ./Birthday_bash
 ```
-    
+
+NOTE - sample images and audio files in Birthday_bash folder can be replaced with your selected images and audio files. To enable these changes visit code of each executable file located within Birthday_bash after installation
+
+
 ## Features
 
 - view greetings
